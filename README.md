@@ -1,31 +1,4 @@
-[Relatorio Tecnico.pdf](https://github.com/user-attachments/files/21520444/Relatorio.Tecnico.pdf)
-![Print26](https://github.com/user-attachments/assets/d514fa63-6166-4eec-984d-16bffe43cb9e)
-![Print25](https://github.com/user-attachments/assets/d68cc934-95a8-44a9-965c-0a1cb885b797)
-![Print24](https://github.com/user-attachments/assets/69369233-2a49-4771-87fc-76abdc008650)
-![Print23](https://github.com/user-attachments/assets/efa18b59-3ddc-4448-9f95-00a629db8c94)
-![Print22](https://github.com/user-attachments/assets/072a5ac1-3260-4fa6-a5fb-26901bd50973)
-![Print21](https://github.com/user-attachments/assets/5c4f3862-a851-4a29-b7d6-b8e274549d9c)
-![Print20](https://github.com/user-attachments/assets/e8f25631-0ff5-4454-bc2e-14c5c1c12f65)
-![Print19](https://github.com/user-attachments/assets/7c84d4e7-4534-4638-ac78-e5b789c457ff)
-![Print18](https://github.com/user-attachments/assets/100de5a0-7c37-448d-ac63-0e504505d166)
-![Print17](https://github.com/user-attachments/assets/51bf8266-5d36-4eb2-b7ab-3c0f65b091ae)
-![Print16](https://github.com/user-attachments/assets/9922dca4-10ec-4976-9ff4-1eaab2a003a2)
-![Print15](https://github.com/user-attachments/assets/74bbd8b1-9b0d-44fc-94be-e942ee38db93)
-![Print14](https://github.com/user-attachments/assets/765e45da-a744-4c69-8f31-6fde8608f46b)
-![Print13](https://github.com/user-attachments/assets/1d16f9bb-6645-4432-bbc0-cec5e6c8cf63)
-![Print12](https://github.com/user-attachments/assets/58a31dfc-cb12-408a-aebc-ee43cb3a35e4)
-![Print11](https://github.com/user-attachments/assets/a50c6740-43b7-4bdb-a77a-0ceb77e16701)
-![Print10](https://github.com/user-attachments/assets/1c793d0e-0592-4c91-a123-c196fb4b96c4)
-![Print9](https://github.com/user-attachments/assets/7ca777d4-a02c-4c37-a486-41fa717a8d22)
-![Print8](https://github.com/user-attachments/assets/202486af-6406-4bd3-ab0f-7d7139d489fa)
-![Print7](https://github.com/user-attachments/assets/f46f3499-f2ec-4700-8b69-1a5b72a80411)
-![Print6](https://github.com/user-attachments/assets/8599a0e8-2d4c-4ccb-b1cf-0f328e367584)
-![Print5](https://github.com/user-attachments/assets/b58563a2-0cf2-423f-a490-da8e6176e313)
-![Print4](https://github.com/user-attachments/assets/66d49df0-f1dd-4589-b166-235e37aa6dff)
-![Print3](https://github.com/user-attachments/assets/e2864978-4c44-48fe-a938-fb61ceafa9fe)
-![Print2](https://github.com/user-attachments/assets/d5033c48-80cf-4133-a1c4-5b0940755f90)
-![Print1](https://github.com/user-attachments/assets/d3eb81fa-70fd-42c9-a2d0-35eb85915aa6)
-![Docker](https://github.com/user-attachments/assets/e8f2980e-01dc-4536-bffd-f71515ea74f4)
-
+Relatório Técnico – Segmentação de Rede em Ambiente Simulado 
+Desafio Módulo 1
 
 
